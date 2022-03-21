@@ -376,6 +376,7 @@ main .recent-orders table:hover{
 
 main table tbody td{
     height: 2.8rem;
+    width: 2.8rem;
     border-bottom: 1px solid var(--color-light);
     color: var(--color-dark-variant);
 }
@@ -569,6 +570,7 @@ main .recent-orders a{
     main .recent-orders table{
         width: 83vw;
     }
+    
     main table thead tr th:last-child,main table thead tr th:first-child{
         display: none;
     } 
